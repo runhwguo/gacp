@@ -4,7 +4,7 @@
   "description": "git add commit and push",
   "main": "lib/cli.js",
   "bin": {
-    "gacp": "lib/cli.js"
+    "wgitac": "lib/cli.js"
   },
   "scripts": {
     "beta": "npm run test && npm publish --registry=https://registry.npmjs.org/ --tag beta",
